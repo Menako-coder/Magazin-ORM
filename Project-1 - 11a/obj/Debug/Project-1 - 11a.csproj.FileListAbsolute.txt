@@ -1,0 +1,15 @@
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\bin\Debug\Project-1 - 11a.exe.config
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\bin\Debug\Project-1 - 11a.exe
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\bin\Debug\Project-1 - 11a.pdb
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\bin\Debug\EntityFramework.dll
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\bin\Debug\EntityFramework.xml
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\obj\Debug\Project-1 - 11a.csproj.AssemblyReference.cache
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\obj\Debug\Project-1 - 11a.csproj.SuggestedBindingRedirects.cache
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\obj\Debug\Project-1 - 11a.csproj.CoreCompileInputs.cache
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\obj\Debug\Project-1 - 11a.csproj.CopyComplete
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\obj\Debug\Project-1 - 11a.exe
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\obj\Debug\Project-1 - 11a.pdb
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\obj\Debug\Project_1___11a.Migrations.InitilMigration.resources
+C:\Users\STEM-TEACHERS-1-1\source\repos\Magazin Hrani\Project-1 - 11a\obj\Debug\Project-1 - 11a.csproj.GenerateResource.cache
